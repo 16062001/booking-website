@@ -1,0 +1,67 @@
+body{
+
+    margin: 0;
+}
+
+.container{
+    margin-top: 60px;
+align-content: center;
+}
+.col{
+    background-color: rgb(219, 219, 230);
+}
+h1{
+    margin-bottom: 60px;
+}
+
+.padd{
+   margin-left: 80px;
+}
+
+.card_width{
+    width:570px ;
+    height:200px;
+
+}
+.price{
+
+
+    display: flex;
+}
+
+
+
+
+.lef{
+    display: flex;
+    justify-content:space-between;
+
+}
+
+.item_name{
+    color: chartreuse;
+}
+.ste{
+    padding-top: 5%;
+}
+
+
+.log{
+    
+    padding-right: 30%;
+padding-left: 30%;
+   
+}
+.next{
+    padding-left: 80%;
+    padding-bottom: 5%;
+}
+.bod{
+    background-color: rgb(227, 224, 223);
+  
+}
+.last{
+    padding-left: 25%;
+    padding-top: 5%;
+    padding-bottom: 20%;
+}
